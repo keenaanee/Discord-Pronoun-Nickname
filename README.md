@@ -87,7 +87,7 @@ docker run -d \
 ##Logs
 
 ```bash
-docker logs -f discord-pronoun-nickname
+docker logs -f Discord-Pronoun-Nickname
 ```
 
 ##Command
@@ -95,5 +95,6 @@ docker logs -f discord-pronoun-nickname
 !setup-pronouns
 
 ```
+
 
 
