@@ -1,4 +1,4 @@
-![Discord Pronoun Nickname Bot](https://repository-images.githubusercontent.com/1096698494/c6ecfe10-8866-48c9-b504-cf6510a5a9ab))
+![Discord Pronoun Nickname Bot](https://repository-images.githubusercontent.com/1096698494/c6ecfe10-8866-48c9-b504-cf6510a5a9ab)
 
 # Discord Pronoun Nickname Bot
 
@@ -95,4 +95,5 @@ docker logs -f discord-pronoun-nickname
 !setup-pronouns
 
 ```
+
 
